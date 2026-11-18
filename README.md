@@ -15,6 +15,25 @@ La plataforma estandariza operaciones complejas de matemática financiera bajo e
 
 ---
 
+## 🚀 Live Demo
+
+Explora Capital Cruise a traves de la demo pública.
+
+- **Web Application:** [Open Capital Cruise](https://capital-cruise-phi.vercel.app/)
+- **API Documentation:** [Swagger UI](https://capital-cruise.onrender.com/swagger-ui/index.html)
+
+### Credenciales Demo
+
+| Field | Value |
+|---|---|
+| Email | demo@capitalcruise.com |
+| Password | CapitalCruiseDemo2026! |
+
+> Esta demo es para proposito de portafolio
+> Por favor usa solo datos ficticios.
+
+---
+
 ## Tabla de Contenidos
 
 - [1. Ciclo de Vida del Software y Marco de Negocio](#1-ciclo-de-vida-del-software-y-marco-de-negocio)
